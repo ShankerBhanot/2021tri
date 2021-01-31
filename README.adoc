@@ -32,7 +32,7 @@ adds those items. With Spring Boot, you can focus more on business features and 
 infrastructure.
 
 The following examples show what Spring Boot can do for you:
-
+- IMPORTANT LEARING
 - Is Spring MVC on the classpath? There are several specific beans you almost always need,
 and Spring Boot adds them automatically. A Spring MVC application also needs a servlet
 container, so Spring Boot automatically configures embedded Tomcat.
